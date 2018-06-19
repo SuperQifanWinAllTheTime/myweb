@@ -31,6 +31,8 @@ fs.readFile('homepage', return( error , webpage) => {
 	});
   ```
 ---------------------------end of fs function--------------------------------
-## HTML
+## HTML & CSS
+<img width="1440" alt="screen shot 2018-06-19 at 6 47 25 pm" src="https://user-images.githubusercontent.com/15969187/41628163-4b9fbe5c-73f1-11e8-918c-cd96dcf94312.png">
 
-## CSS
+## Refrence
+use `font-family: 'Raleway';` from https://fonts.google.com/specimen/Raleway <br/>
